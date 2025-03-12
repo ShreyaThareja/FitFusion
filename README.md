@@ -1,0 +1,1 @@
+Welcome to the Health Tracker website! This web application is designed to assist you in monitoring and enhancing your overall health and well-being. Whether you aim to track your fitness progress, manage your diet, or stay on top of your medical appointments, this platform has got you covered.
